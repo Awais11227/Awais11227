@@ -80,9 +80,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awais11227&theme=radical&hide_border=true&ring=1E90FF&fire=FF6347&currStreakLabel=00BFFF&background=0D1117" width="48%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais11227&layout=compact&theme=radical&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=0D1117" width="50%"/>
-</div>
 
 ---
 ## Growth & Activity
