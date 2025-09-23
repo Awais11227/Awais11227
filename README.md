@@ -17,7 +17,7 @@
 
 ---
 
-> *"Numbers tell a story, but analysis gives it meaning."*  
+> *"Numbers tell a story, but analysis gives it meaning"*  
 
 ---
 
