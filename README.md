@@ -87,7 +87,7 @@
 
 ## 🌐 Connect With Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/awaismanzoor/)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/awaismanzoor/](https://www.linkedin.com/in/awaismanzoor11227/))  
 - 🖥 [GitHub](https://github.com/Awais11227)  
 
 ---
