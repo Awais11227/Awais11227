@@ -85,7 +85,7 @@
 ## Growth & Activity
 <div align="center" style="margin: 20px 0;"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais11227&custom_title=Awais%20Manzoor's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true&radius=15" width="100%"/> </div> ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me.
 
 - 💼 [LinkedIn]([https://www.linkedin.com/in/awaismanzoor/](https://www.linkedin.com/in/awaismanzoor11227/))  
 - 🖥 [GitHub](https://github.com/Awais11227)  
