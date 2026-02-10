@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Learning%20Courses-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
-📌 *Full list of 12+ certifications with credential IDs on my [LinkedIn](https://www.linkedin.com/in/awaismanzoor/).*  
+📌 *Full list of 12+ certifications with credential IDs on my [LinkedIn](https://www.linkedin.com/in/awaismanzoor11227/).*  
 
 ---
 
